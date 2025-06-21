@@ -327,4 +327,11 @@ Here are some important resources and documentation used in the project:
 All icons, illustrations, logos, and mock images used in this project can be found inside: [here](https://drive.google.com/drive/folders/1UoeM73yBJE4Kk8wF1Lsqk8o3UZYPYITd?usp=sharing)
 
 ## 📽️ Screenshots
+<img src="https://github.com/user-attachments/assets/a6ef9f47-0500-4685-9288-ab43c4ae7b10" alt="Login Screen" width="350" />
+
+<img src="https://github.com/user-attachments/assets/db94dfb0-4707-4bbc-9354-b2873d3538a3" alt="Home Screen" width="350" />
+
+<img src="https://github.com/user-attachments/assets/829d7cdd-df05-4ed6-8691-29745c4c27af" alt="Rider Screen" width="350" />
+
+<img src="https://github.com/user-attachments/assets/0cd203de-faa9-4367-805a-2b7e94050d33" alt="Success Screen" width="350" />
 

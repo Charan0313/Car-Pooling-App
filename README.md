@@ -42,16 +42,13 @@ This project was developed using **React Native** and **Expo** for the mobile ap
 - Email verification
 
 ✅ **Ride Pool Creation (Drivers)**
-- Set source, destination, time, vehicle info, preferences (music, pets, etc.)
+- Set source, destination, time, vehicle info 
 - View and approve join requests
 
 ✅ **Ride Matching (Riders)**
-- Search for rides by route, time, and preferences
-- View match percentage score before joining
+- Search for rides by route, time, 
 
 ✅ **Privacy & Security**
-- Phone masking with VoIP-like calling
-- Panic button for SOS alerts
 - Limited profile visibility until confirmation
 
 ✅ **Live Map & Route**
@@ -89,20 +86,18 @@ To install Expo CLI globally:
 npm install -g expo-cli
 ```
 
-##📥 Clone the Repository
+📥 Clone the Repository
 
 ```bash
 git clone https://github.com/Charan0313/car-pooling-app.git
 cd car-pooling-app
 ```
-
-##📦 Install Dependencies
+📦 Install Dependencies
 
 ```bash
 npm install
 ```
-
-##🛠️ Set Up Environment Variables
+🛠️ Set Up Environment Variables
 Create a .env file in the root of your project and add the following content:
 
 ```bash
@@ -129,7 +124,7 @@ STRIPE_SECRET_KEY=
 - Geoapify
 - NeonDB or your PostgreSQL provider
 
-##🚀 Run the Project
+🚀 Run the Project
 
 Start the app using:
 

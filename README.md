@@ -11,7 +11,8 @@ This project was developed using **React Native** and **Expo** for the mobile ap
 - 🤸 Quick Start  
 - ⚗️ Code Snippets  
 - 🔗 Useful Links  
-- 📦 Assets  
+- 📦 Assets
+- 🔁 Data Flow
 - 📽️ Screenshots
 
 
@@ -320,6 +321,9 @@ Here are some important resources and documentation used in the project:
 ## 📦 Assets
 
 All icons, illustrations, logos, and mock images used in this project can be found inside: [here](https://drive.google.com/drive/folders/1UoeM73yBJE4Kk8wF1Lsqk8o3UZYPYITd?usp=sharing)
+
+## Data FLow
+![Image](https://github.com/user-attachments/assets/086cb7f8-0e20-4221-85f0-c41f8203291b)
 
 ## 📽️ Screenshots
 <img src="https://github.com/user-attachments/assets/a6ef9f47-0500-4685-9288-ab43c4ae7b10" alt="Login Screen" width="350" />
